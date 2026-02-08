@@ -6,4 +6,6 @@ summary: "Two procedural assets built with Houdini, used for rapid creation, ite
 catergories: ['Tech Art']
 tags: ['Houdini', 'Procedural Modeling']
 weight: 1
+type: "Tech Art"
+featured: true
 ---

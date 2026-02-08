@@ -37,9 +37,11 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "background"
+layout = "better-background"
 showRecent = true
 showRecentItems = 3
+
+# Now also applied to featured
 showMoreLink = true
 showMoreLinkDest = "/site/all-projects/"
 cardView = true
@@ -47,6 +49,10 @@ cardViewScreenWidth = false
 layoutBackgroundBlur = true
 disableHeroImageFilter = true
 homepageImage = "/Preview_Gerstner_Waves.gif"
+
+# Custom featured articles
+showfeatured = true
+showfeaturedItems = 3
 
 [article]
 showDate = false

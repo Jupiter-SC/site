@@ -6,4 +6,5 @@ summary: "Volumetric clouds implemented as a post processing effect using ray ma
 catergories: ['Graphics']
 tags: ['Unity', 'Unity URP', 'HLSL']
 weight: 3
+type: "Graphics"
 ---

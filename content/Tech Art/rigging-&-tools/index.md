@@ -6,4 +6,5 @@ summary: ""
 catergories: ['Tech Art']
 tags: ['Maya', 'Python', '3D Animation', 'Rigging']
 weight: 3
+type: "Tech Art"
 ---

@@ -6,4 +6,5 @@ summary: "I'm learning Vulkan!"
 catergories: ['Graphics']
 tags: ['C++', 'Vulkan']
 weight: 4
+type: "Graphics"
 ---

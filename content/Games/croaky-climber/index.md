@@ -6,4 +6,6 @@ summary: "A 2D platformer where the hero can't jump and moves by grappling with 
 catergories: ['Games']
 tags: ['Game Maker Studio 2', 'GML']
 weight: 3
+type: "Games"
+
 ---

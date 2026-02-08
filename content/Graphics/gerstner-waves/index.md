@@ -6,4 +6,6 @@ summary: "A water shader that simulates physically accurate waves using real mat
 catergories: ['Graphics']
 tags: ['OpenGL', 'Callisto Engine']
 weight: 1
+type: "Graphics"
+featured: true
 ---

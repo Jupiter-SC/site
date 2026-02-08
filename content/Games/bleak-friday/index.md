@@ -6,4 +6,6 @@ summary: "Summary here!"
 catergories: ['Games']
 tags: ['TODO']
 weight: 5
+type: "Games"
+
 ---

@@ -6,4 +6,5 @@ summary: "A script that takes a Maya object and turns it into Voxlels based on u
 catergories: ['Tech Art']
 tags: ['Maya', 'Python', 'Procedural Modeling']
 weight: 2
+type: "Tech Art"
 ---

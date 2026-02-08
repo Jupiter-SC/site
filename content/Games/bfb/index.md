@@ -6,4 +6,6 @@ summary: 'A 3D, educational recreation of the sport Belgian Feather Bowling for 
 catergories: ['Games']
 tags: ['Unity', 'C#']
 weight: 2
+type: "Games"
+
 ---

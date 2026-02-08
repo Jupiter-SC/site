@@ -7,6 +7,7 @@ date: '{{ .Date }}'
 
 draft: false
 
-tags: ['TODO']
+type: "TODO: Type"
+tags: ['TODO: Tag']
 catergories: ['TODO: Catergory']
 ---
