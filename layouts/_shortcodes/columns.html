@@ -1,13 +1,6 @@
-{{- $size := default "regular" (.Get "size" | lower) }}
-
-{{- if not (in (slice "regular" "large" "small") $size) }}
-{{- $size = "regular" }}
-{{- end }}
-
-
-<div class="gdoc-columns gdoc-columns--{{ $size }} flex gap-16 flex-mobile-column">
+<div class="grid grid-cols-1 sm:grid-cols-2">
     {{- range split .Inner "<--->" }}
-    <div class="gdoc-columns__content gdoc-markdown--nested flex-even">
+    <div class="col-span-2 md:order-first p-4">
         {{ . | $.Page.RenderString -}}
     </div>
     {{- end }}

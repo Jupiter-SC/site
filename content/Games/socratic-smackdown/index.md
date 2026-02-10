@@ -1,6 +1,6 @@
 ---
 title: "Socratic Smackdown"
-summary:  'A platform fighter where animalized versions of philosophers put down their words and raise up their fists!'
+summary:  'A platform fighter where animalized versions of classic philosophers put down their words and raise up their fists!'
 weight: 1
 layout: "two-cols"
 
@@ -13,26 +13,19 @@ tags: ['Unity', 'C#', 'HLSL']
 featured: true
 ---
 
+
 {{< columns >}}
 
 {{< youtubeLite id="TkTGDHL3t8U" label="Socratic Smackdown | Alpha Trailer" >}}
-![SS Logo](spacer-short-1250.png)
 
 <--->
 
-hiiiii how can I space this :3
+# About the Game
 
-<--->
-
-
-# Socratic Smackdown
 Socratic Smackdown is a 2.5D platform fighter where you play as animalized versions of classic philosophers as they fight for a thought in a king-of-the-hill style game mode.
 
 Do cool combos, use special philosophy-inspired moves, and send opponents flying off the stage in a fun-for-all fighting game experience!
 
-{{</* button href="#button" target="_self" */>}}
-TODO Itch Embed
-{{</* /button */>}}
 
 {{< /columns >}}
 
@@ -57,21 +50,15 @@ My contributions
 
 <--->
 
+<iframe frameborder="0" src="https://itch.io/embed/4274440?border_width=0&amp;dark=true" width="550" height="165"><a href="https://good-enouf-studios.itch.io/socratic-smackdown">Socratic Smackdown by Good Enouf Studios, vxheme, ZacharyKilmer</a></iframe>
+
 ![SS Logo](logo-short-small-2.png)
 
 {{< /columns >}}
-
-{{< columns >}}
-
-# Image
-![SS Logo](logo-short-small-2.png)
-
-
-<--->
 
 # Attack System & Editor
 - System for handling attacks, their properties, and effects
 - Can be edited and visualized in runtime, allowing for quick creation & iteration by designers
 - Expandable by attaching unique scripts for special attacks
 
-{{< /columns >}}
+{{< carousel images="carousel-2/*" aspectRatio="16-9" interval="2500" >}}
