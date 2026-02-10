@@ -56,9 +56,13 @@ My contributions
 
 {{< /columns >}}
 
+{{< columns >}}
+<--->
+
 # Attack System & Editor
 - System for handling attacks, their properties, and effects
 - Can be edited and visualized in runtime, allowing for quick creation & iteration by designers
 - Expandable by attaching unique scripts for special attacks
+{{< /columns >}}
 
 {{< carousel images="carousel-2/*" aspectRatio="16-9" interval="2500" >}}

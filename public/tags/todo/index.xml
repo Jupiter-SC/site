@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TODO on Jupiter Sinclair Chong | Under Construction...</title>
-    <link>https://joshua-s-c.github.io/site/tags/todo/</link>
+    <link>http://localhost:1313/site/tags/todo/</link>
     <description>Recent content in TODO on Jupiter Sinclair Chong | Under Construction...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Jupiter Sinclair Chong</copyright>
-    <lastBuildDate>Mon, 02 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://joshua-s-c.github.io/site/tags/todo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/site/tags/todo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bleak Friday</title>
-      <link>https://joshua-s-c.github.io/site/games/bleak-friday/</link>
+      <link>http://localhost:1313/site/games/bleak-friday/</link>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://joshua-s-c.github.io/site/games/bleak-friday/</guid>
+      <guid>http://localhost:1313/site/games/bleak-friday/</guid>
       <description>Summary here!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://joshua-s-c.github.io/site/games/bleak-friday/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/site/games/bleak-friday/feature.png" />
     </item>
     
   </channel>
