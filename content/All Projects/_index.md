@@ -1,9 +1,10 @@
 ---
 title: "All Projects"
 layout: "single"
+cascade:
+  showReadingTime: false
+  showWordCount: false
 ---
-
-Gonna List all projects here
 
 {{< list title="Games" cardView=true limit=6 where="Type" value="Games" >}}
 

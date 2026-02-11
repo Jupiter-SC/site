@@ -10,12 +10,11 @@ type: "Games"
 
 ---
 
-
 {{< columns >}}
+
 
 ![Logo](Logo.png)
 
-<iframe frameborder="0" src="https://itch.io/embed/2650766" width="520" height="167"><a href="https://vxheme.itch.io/bfb-on-the-go">Belgian Feather Bowling: On The Go! by vxheme</a></iframe>
 
 
 <--->
@@ -72,6 +71,7 @@ My contributions
 
 <--->
 
+<iframe frameborder="0" src="https://itch.io/embed/2650766?linkback=true&amp;border_width=0&amp;bg_color=222222&amp;fg_color=eeeeee&amp;link_color=8e0606&amp;border_color=222222" width="550" height="165"><a href="https://jupiter-sc.itch.io/bfb-on-the-go">Belgian Feather Bowling: On The Go! by Jupiter SC</a></iframe>
 
 
 {{< /columns >}}

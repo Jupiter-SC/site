@@ -64,10 +64,16 @@ parent = "Graphics"
 weight = 30
 
 [[main]]
+name = "Unity Animation System"
+pageRef = "Graphics/custom-unity-animation-system"
+parent = "Graphics"
+weight = 40
+
+[[main]]
 name = "Vulkan Renderer"
 pageRef = "Graphics/vulkan-renderer"
 parent = "Graphics"
-weight = 40
+weight = 50
 
 # Tech Art
 

@@ -21,8 +21,8 @@ image = ""
 headline = "Games, Graphics, Tech Art, Tools"
 bio = "Game Programmer specializing in Graphics Programming, Tech Art, & Tools"
 links = [
-  { github = "https://github.com/Joshua-S-C" },    
-  { itch-io = "https://vxheme.itch.io" },
+  { github = "https://github.com/Jupiter-SC" },    
+  { itch-io = "https://jupiter-sc.itch.io" },
   { linkedin = "https://linkedin.com/in/joshua-sinclair-chong" },
 ]
 

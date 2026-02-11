@@ -9,8 +9,6 @@ weight: 2
 type: "Graphics"
 ---
 
-
-
 {{< columns >}}
 
 ![Logo](Logo.png)
