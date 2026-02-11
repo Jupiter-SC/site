@@ -1,121 +1,108 @@
 [[main]]
 none = "none"
 
-# Games
-
 [[main]]
 name = "Games"
 pageRef = "Games"
-weight = 10
+weight = 1
 
 [[main]]
 name = "Socratic Smackdown"
 pageRef = "Games/socratic-smackdown"
 parent = "Games"
-weight = 10
+weight = 6
 
 [[main]]
 name = "Belgian Feather Bowling : On the Go!"
 pageRef = "Games/bfb"
 parent = "Games"
-weight = 20
+weight = 9
 
 [[main]]
 name = "Croaky Climber"
 pageRef = "Games/croaky-climber"
 parent = "Games"
-weight = 30
+weight = 10
 
 [[main]]
 name = "Lost Echoes"
 pageRef = "Games/lost-echoes"
 parent = "Games"
-weight = 40
+weight = 11
 
 [[main]]
 name = "Bleak Friday"
 pageRef = "Games/bleak-friday"
 parent = "Games"
-weight = 50
-
-# Graphics
+weight = 12
 
 [[main]]
 name = "Graphics"
 pageRef = "Graphics"
-weight = 20
+weight = 2
 
 [[main]]
 name = "Callisto Engine"
 pageRef = "Graphics/callisto-engine"
 parent = "Graphics"
-weight = 10
+weight = 13
 
 [[main]]
 name = "Gerstner Waves"
 pageRef = "Graphics/gerstner-waves"
 parent = "Graphics"
-weight = 20
+weight = 7
 
 [[main]]
 name = "Volumetric Clouds"
 pageRef = "Graphics/volumetric-clouds"
 parent = "Graphics"
-weight = 30
+weight = 14
 
 [[main]]
 name = "Unity Animation System"
 pageRef = "Graphics/custom-unity-animation-system"
 parent = "Graphics"
-weight = 40
+weight = 15
 
 [[main]]
 name = "Vulkan Renderer"
 pageRef = "Graphics/vulkan-renderer"
 parent = "Graphics"
-weight = 50
-
-# Tech Art
+weight = 16
 
 [[main]]
 name = "Tech Art"
 pageRef = "Tech Art"
-weight = 30
+weight = 3
 
 [[main]]
 name = "Procedural Rocks & Columns"
 pageRef = "Tech Art/procedural-rocks-&-pillars"
 parent = "Tech Art"
-weight = 10
+weight = 8
 
 [[main]]
 name = "Maya Voxelizer"
 pageRef = "Tech Art/maya-voxelizer"
 parent = "Tech Art"
-weight = 20
+weight = 17
 
 [[main]]
 name = "Rigging & Tools"
 pageRef = "Tech Art/rigging-&-tools"
 parent = "Tech Art"
-weight = 30
-
-# All Projects
+weight = 18
 
 [[main]]
 name = "All Projects"
 pageRef = "All Projects"
-weight = 40
-
-# About Me
+weight = 4
 
 [[main]]
 name = "About Me"
 pageRef = "About Me"
-weight = 50
-
-#
-
+weight = 5
 
 [[footer]]
 none = "none"
